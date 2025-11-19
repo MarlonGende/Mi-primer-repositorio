@@ -1,0 +1,11 @@
+client_id,name,email,phone,city
+1,Cliente 1,cliente1@correo.com,0990000001,Quito
+2,Cliente 2,cliente2@correo.com,0990000002,Guayaquil
+3,Cliente 3,cliente3@correo.com,0990000003,Cuenca
+4,Cliente 4,cliente4@correo.com,0990000004,Ambato
+5,Cliente 5,cliente5@correo.com,0990000005,Manta
+6,Cliente 6,cliente6@correo.com,0990000006,Quito
+7,Cliente 7,cliente7@correo.com,0990000007,Guayaquil
+8,Cliente 8,cliente8@correo.com,0990000008,Cuenca
+9,Cliente 9,cliente9@correo.com,0990000009,Ambato
+10,Cliente 10,cliente10@correo.com,0990000010,Manta
